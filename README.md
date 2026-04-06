@@ -1,20 +1,14 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/149af308-1ac3-4d10-9faa-34708582bebf
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Friday- AI
+​A high-performance AI integration designed for real-time interaction and heavy data processing.
+​🛠️ Architecture
+​Frontend: React / Next.js (Tailwind CSS)
+​Backend: Node.js / Go (Microservices)
+​Database: PostgreSQL (Relational) + Redis (Caching)
+​Engine: Gemini API
+​Infrastructure: Docker / Kubernetes
+​🚀 Key Features
+​Real-Time Streams: Low-latency WebSocket integration.
+​Data Pipeline: Optimized for processing large-scale datasets.
+​Scalable Core: Microservices architecture for modular growth.
+​Fast Deployment: CI/CD ready for Vercel/AWS.
+​💻 Installation
